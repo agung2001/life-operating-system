@@ -1,6 +1,6 @@
 {
   "name": "life-operating-system",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "a collection of Microsoft Excel template for personal budgeting, accounting, decision making, etc",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
