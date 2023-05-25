@@ -4,6 +4,9 @@
 
 🧩 Life Operating System (LifeOS) is a collection of Microsoft Excel template for personal budgeting, accounting, decision making, etc.
 
+## 💲 [Finance](templates/finance)
+- Personal Spending Tracker (PST)
+
 ## ⭐️ Support & Contribution
 - Help support me by giving a 🌟 or [donate][website]
 
