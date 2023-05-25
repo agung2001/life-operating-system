@@ -1,0 +1,24 @@
+{
+  "name": "life-operating-system",
+  "version": "0.0.0",
+  "description": "a collection of Microsoft Excel template for personal budgeting, accounting, decision making, etc",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "dotenv release-it --"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agung2001/life-operating-system.git"
+  },
+  "author": "Agung Sundoro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agung2001/life-operating-system/issues"
+  },
+  "homepage": "https://github.com/agung2001/life-operating-system#readme",
+  "devDependencies": {
+    "@release-it/conventional-changelog": "^5.1.1",
+    "dotenv-cli": "^6.0.0",
+    "release-it": "^15.5.1"
+  }
+}
