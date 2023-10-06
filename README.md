@@ -9,7 +9,7 @@ Life Operating System (LifeOS) is a collection of Microsoft Excel template for p
 - [Personal Spending Tracker (PST)](https://github.com/agung2001/life-operating-system/blob/c6319abe7f6b5c4101691d181e9cf1c78893ca88/templates/finance/Personal%20Spending%20Tracker%20(PST).xlsx)
 
 ## 💼 [Management](templates/management)
-- [Balance Scorecard (BSC)](https://github.com/agung2001/life-operating-system/blob/0d70ddd0bf58247d09e5948d3799ef18ce550eaf/templates/management/Balance%20Scorecard%20(BSC).xlsx)
+- [Balance Scorecard (BSC)](https://github.com/agung2001/life-operating-system/blob/1e9cabab6048eb2ad933b2874e4c617222ae4b50/templates/management/Balance%20Scorecard%20(BSC).xlsx)
 
 ## ⭐️ Support & Contribution
 - Help support me by giving a 🌟 or [donate][website]
