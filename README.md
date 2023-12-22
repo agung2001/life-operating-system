@@ -4,6 +4,9 @@
 
 Life Operating System (LifeOS) is a collection of Microsoft Excel template for personal budgeting, accounting, decision making, etc.
 
+## 👨‍💼 [Career](templates/career)
+- [Personal Scorecard (PSC)](https://github.com/agung2001/life-operating-system/blob/f790f5c5bb025a2df150418b20858a495bc11888/templates/career/Personal%20Scorecard%20(PSC).xlsx)
+
 ## 💲 [Finance](templates/finance)
 - [Personal Asset Management Tracker (PAMT)](https://github.com/agung2001/life-operating-system/blob/f5c08c8c16a9d4355f437399f29f56da1edb2ea5/templates/finance/Personal%20Asset%20Management%20Tracker%20(PAMT).xlsx)
 - [Personal Income Tracker (PIT)](https://github.com/agung2001/life-operating-system/blob/d07f49c48557291bdd4fc6741f9159733ef38c49/templates/finance/Personal%20Income%20Tracker%20(PIT).xlsx)
