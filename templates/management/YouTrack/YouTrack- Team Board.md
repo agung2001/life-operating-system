@@ -1,5 +1,7 @@
 # YouTrack - Team Board
 
+![](YouTrack%20-%20Team%20Board.jpg)
+
 The YouTrack team dashboard is a YouTrack custom dashboard that provides a centralized, customizable interface for teams to monitor and manage their projects and tasks. It is designed to give a comprehensive overview of the project's status, helping team members stay informed and aligned.
 Benefits of Using a YouTrack Team Dashboard
 1. Enhanced Visibility:
