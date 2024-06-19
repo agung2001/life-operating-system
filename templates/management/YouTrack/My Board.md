@@ -1,5 +1,7 @@
 # YouTrack - My Board
 
+![](My%20Board.jpg)
+
 The YouTrack "My Board" is a personalized, customizable interface designed to provide individual users with a comprehensive and real-time overview of their specific tasks, issues, and project statuses. This dashboard serves as a powerful tool for professionals to manage their work efficiently and stay updated on their individual responsibilities and progress.
 Professional Benefits of Using YouTrack "My Dashboard"
 1. Enhanced Productivity:
@@ -55,3 +57,7 @@ Assignee: me state: -Verified -Fixed tag: discussed order by: updated desc
 ```text
 Evaluator: me state: -Verified order by: updated desc  
 ```
+
+## Contact
+- Author : Agung Sundoro
+- Website : https://agungsundoro.com
