@@ -56,7 +56,7 @@ state: -Verified order by: updated desc has: Evaluator tag: team
 
 ### 🫣 Unresolved
 ```text
-State: -Verified tag: team 
+State: -Verified tag: team tag: -discussed
 ```
 
 ## Contact
