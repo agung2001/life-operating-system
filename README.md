@@ -16,6 +16,7 @@ Life Operating System (LifeOS) is a collection of Microsoft Excel template for p
 
 ## 💼 [Management](templates/management)
 - [Balance Scorecard (BSC)](https://github.com/agung2001/life-operating-system/blob/3897377aca317fa72edab65a61139225c355f428/templates/management/Balance%20Scorecard%20(BSC).xlsx)
+- [Rocks](https://github.com/agung2001/life-operating-system/blob/a5756495c32bf641cc2ac40487b409e17f688f12/templates/management/ROCKS.md)
 - [Vision Traction Organizer (VTO)](https://github.com/agung2001/life-operating-system/blob/75b47b31691834a594ff89219d7e5d57dac18f28/templates/management/Vision%20Traction%20Organizer%20(VTO).xlsx)
 - YouTrack
   - [My Board](https://github.com/agung2001/life-operating-system/blob/04aea57f5f11b36533829bb2852c907af37b9177/templates/management/YouTrack/My%20Board.md)
