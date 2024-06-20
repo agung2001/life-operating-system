@@ -39,7 +39,7 @@ state: -Verified -Fixed tag: -discussed order by: updated desc tag: team
 
 ### 🕰️ non-deadline issues
 ```text
-state: -Verified -Fixed tag: -discussed has: -{Due Date} order by: updated desc tag: team 
+state: -Verified has: -{Due Date} order by: updated desc tag: team 
 ```
 - Change the `tag:` with your team tag
 
@@ -54,9 +54,9 @@ state: -Verified -Fixed order by: updated desc and (tag: discussed and tag: team
 state: -Verified order by: updated desc has: Evaluator tag: team 
 ```
 
-### 🫣 Unresolved
+### 🫣 Abandoned
 ```text
-State: -Verified tag: team tag: -discussed
+State: -Verified Due Date: 2020-01-01 .. {minus 1Y} tag: team
 ```
 
 ## Contact

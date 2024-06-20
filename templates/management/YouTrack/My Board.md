@@ -43,7 +43,7 @@ Assignee: me state: -Verified -Fixed tag: -discussed Due Date: today .. {plus 6M
 
 ### 🕰️ non-deadline issues
 ```text
-Assignee: me state: -Verified -Fixed tag: -discussed has: -{Due Date} order by: updated desc 
+Assignee: me state: -Verified has: -{Due Date} order by: updated desc 
 ```
 - Change the `tag:` with your team tag
 
