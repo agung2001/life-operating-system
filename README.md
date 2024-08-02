@@ -7,7 +7,7 @@ Life Operating System (LifeOS) is a collection of Microsoft Excel template for p
 ## 👾 Artificial Intelligence (AI)
 - [Checkpoint](templates/AI/Checkpoint.md)
 - [LoRa](templates/AI/LoRA.md)
-- [Styles](templates/AI/styles.csv))
+- [Styles](templates/AI/styles.csv)
 
 ## 👨‍💼 [Career](templates/career)
 - [Personal Scorecard (PSC)](https://github.com/agung2001/life-operating-system/blob/f790f5c5bb025a2df150418b20858a495bc11888/templates/career/Personal%20Scorecard%20(PSC).xlsx)
