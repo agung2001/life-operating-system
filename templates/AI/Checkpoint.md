@@ -19,6 +19,21 @@
 - [ReV Animated](https://civitai.com/models/7371): Focuses on animated-style visuals.
 - [ToonYou](https://civitai.com/models/30240): Produces cartoonish, anime-inspired images.
 
+**Indonesia Celebrity**
+- [Amanda Manopo](https://civitai.com/models/399641/indonesian-celebrity-amanda-manopo)
+- [Anya Geraldine / Nur Hayati](https://civitai.com/models/103456/nur-hayati)
+- [Chandrika Chika](https://civitai.com/models/423688/indonesian-celebrity-chandrika-chika)
+- [Chelsea Islan](https://civitai.com/models/232084/chelsea-islan-indonesian-actress)
+
+**Indonesia Culture**
+- [Balinese Kebaya](https://civitai.com/models/37646/balinese-kebaya)
+- [Batik Kopri](https://civitai.com/models/465449/batik-kopri)
+- [Batik Pattern](https://civitai.com/models/543454/fresh-ideasbatik-patternxlv10)
+- [Cewe SMA (Indonesian High School Uniform)](https://civitai.com/models/334733/cewek-sma-indonesian-high-school-uniform)
+- [Javanese Traditional Man's Wedding Dress (Indonesia)](https://civitai.com/models/89085/javanese-traditional-mans-wedding-dress-indonesia)
+- [Javanese Traditional Women's Wedding Dress (Indonesia)](https://civitai.com/models/87839/javanese-traditional-womens-wedding-dress-indonesia)
+- [Kebaya](https://civitai.com/models/60655/kebaya)
+
 **Realistic**
 - [ChilloutMix](https://civitai.com/models/6424/chilloutmix): Generates hyper-realistic images with a relaxed, natural aesthetic.
 - [Juggernaut XL](https://civitai.com/models/133005): High-performance model for ultra-realistic 3D images.
