@@ -36,8 +36,9 @@ state: -Verified tag: -discussed and ( Assignee: me or Evaluator: me ) and ( tag
 
 ### 🚀 Work in Progress (WIP)
 ```text
-Assignee: me state: -Verified -Fixed tag: -discussed Due Date: today .. {plus 6M} order by: updated desc
+(Assignee: me and #{No evaluator} and state: -Verified) or Assignee: me state: -Fixed -Verified tag: -discussed Due Date: today .. {plus 6M} order by: updated desc
 ```
+- `(Assignee: me and #{No evaluator} and state: -Verified)` is used to check weather an issue has evaluator or not
 - The query is set to `{plus 6M}` due to make lists more manageable and not overwhelming for individual, you can change it to your need  
 - Change the `tag:` with your team tag
 
